@@ -174,8 +174,17 @@
         <td>YES</td>
     </tr>                           
 </table>
-
 This is the documentation for products, written by Sales Team of HYY Technology Co.,Ltd.
+
+## Provide perfect technical data for efficient secondary development
+
+- Digital signage has become an increasingly popular choice for businesses and organisations of all sizes in recent years.
+
+- In the UK, research has found that more than half of all businesses with physical premises have installed digital signage. This amounts to a total of over one million digital displays across the country. These figures demonstrate how popular this technology has become – providing organisations with engaging, interactive content for their customers and employees.
+
+- Digital signage offers many benefits to businesses and organisations, from enhancing the customer experience through interactive content to increasing operational efficiency by streamlining internal processes.
+
+- In our latest blog, we explore the types of digital signage, the advantages, the use cases and how digital signage can become a powerful tool as part of your organisation’s communication strategy when installed and managed correctly.
 
 
 # Contacts
